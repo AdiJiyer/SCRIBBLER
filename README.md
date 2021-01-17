@@ -1,2 +1,2 @@
-# SCRIBBLER
-About Front end of a blogging website
+# Scribbler
+Upgrad Project
